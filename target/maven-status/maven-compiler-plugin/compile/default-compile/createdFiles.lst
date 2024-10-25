@@ -1,0 +1,17 @@
+uis\edu\entorno\sistemaPos\service\ICategoriaService.class
+uis\edu\entorno\sistemaPos\service\IUsuarioService.class
+uis\edu\entorno\sistemaPos\controller\CategoriaController.class
+uis\edu\entorno\sistemaPos\controller\ProductoController.class
+uis\edu\entorno\sistemaPos\service\IProductoService.class
+uis\edu\entorno\sistemaPos\controller\UsuarioController.class
+uis\edu\entorno\sistemaPos\model\Categoria.class
+uis\edu\entorno\sistemaPos\model\LoginDto.class
+uis\edu\entorno\sistemaPos\model\Producto.class
+uis\edu\entorno\sistemaPos\repository\UsuarioRepository.class
+uis\edu\entorno\sistemaPos\service\UsuarioService.class
+uis\edu\entorno\sistemaPos\service\CategoriaService.class
+uis\edu\entorno\sistemaPos\service\ProductoService.class
+uis\edu\entorno\sistemaPos\model\Usuario.class
+uis\edu\entorno\sistemaPos\SistemaPosApplication.class
+uis\edu\entorno\sistemaPos\repository\CategoriaRepository.class
+uis\edu\entorno\sistemaPos\repository\ProductoRepository.class

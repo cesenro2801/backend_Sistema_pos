@@ -1,0 +1,17 @@
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\controller\CategoriaController.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\controller\ProductoController.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\controller\UsuarioController.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\model\Categoria.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\model\LoginDto.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\model\Producto.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\model\Usuario.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\repository\CategoriaRepository.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\repository\ProductoRepository.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\repository\UsuarioRepository.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\service\CategoriaService.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\service\ICategoriaService.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\service\IProductoService.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\service\IUsuarioService.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\service\ProductoService.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\service\UsuarioService.java
+D:\PROYECTOS ENTORNOS\sistemaPos\src\main\java\uis\edu\entorno\sistemaPos\SistemaPosApplication.java
